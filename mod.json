@@ -1,0 +1,19 @@
+{
+	"Name": "Pansar",
+	"Author": "hokvel",
+	"Website": "https://github.com/hokvel/pansar",
+
+	"DependsOn": ["DynModLib"],
+	"Enabled": true,
+
+	"Settings": {
+		"UseCurrentStructure": false,
+		"HeadMaxArmorOverride": 45,
+		"StructureTotalLoadCapacityFactor": 2.0,
+		"StructureFrontLoadCapacityFactor": 2.0,
+		"StructureRearLoadCapacityFactor": 1.0
+	},
+
+	"DLL": "Pansar.dll",
+	"DLLEntryPoint": "Pansar.Control.Start"
+}
