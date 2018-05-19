@@ -14,6 +14,8 @@ Installation
 The mod depends on [DynModLib](https://github.com/CptMoore/DynModLib), which itself
 depends on [BTML](https://github.com/Mpstark/BattleTechModLoader) and [ModTek](https://github.com/Mpstark/ModTek).
 
+After installing the dependencies, unpack the mod to `BATTLETECH/Mods` and (optionally) edit the settings.
+
 Compatibility
 -------------
 
